@@ -1,0 +1,6 @@
+Formal Suit,Shrestha store,$14,15,
+Cosplay Dress,DollarSmart,$18,20,
+Cutural Dress,Hamro Culture,$9,10,
+Fairy Costume,DollarSmart,$18,15,
+Makhmal Saari,Megaplex,$14,10,
+Blue OnePiece,Daretowear,$10,30,
